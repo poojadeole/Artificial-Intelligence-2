@@ -9,9 +9,10 @@ The rules of the game are as follows:
 
 3. Each square has points between 1 to 99.
 
-4. The object of the game for each player is to score most points, where the score is the sum of all the points on the sqaures conquered by the player minus the sum of all the sqaure points acquired by the opponent.
+4. The object of the game for each player is to score most points, where the score is the sum of all the points on the sqaures    conquered by the player minus the sum of all the sqaure points acquired by the opponent.
 
-5.The game ends when all the squares are acquired and no more sqaures are remaining.
+5. The game ends when all the squares are acquired.
+
 
 <img width="763" alt="screen shot 2018-03-30 at 12 23 01 am" src="https://user-images.githubusercontent.com/23444062/38128709-938af5dc-33b0-11e8-935d-a31702d1b44d.png">
 
